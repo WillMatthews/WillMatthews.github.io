@@ -1,7 +1,7 @@
 .version.untitled_3 /* version checker */
 {
-	color: #0000EE;
-	background-color: #F2DBC0;
+	color: #0000F9;
+	background-color: #46B02C;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-top: 277px;
+	padding-top: 639px;
 	width: 0.01px;
 }
 
@@ -112,24 +112,24 @@
 	left: 657px;
 }
 
-#u1776
+#u1778
 {
 	z-index: 16;
 	height: 39px;
 	width: 38px;
 	margin-right: -10000px;
 	margin-top: 284px;
-	left: 558px;
+	left: 607px;
 }
 
-#u1778
+#u2217
 {
 	z-index: 19;
 	height: 39px;
 	width: 38px;
 	margin-right: -10000px;
 	margin-top: 284px;
-	left: 607px;
+	left: 558px;
 }
 
 body

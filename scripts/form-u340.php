@@ -65,7 +65,7 @@ $form = array(
 			'optionItems' => array(
 				'PERSONAL',
 				'BUSINESS',
-				'GUEST'
+				'HATE MAIL'
 			),
 			'errors' => array(
 				'required' => 'Field \'HOTEL, TRANSPORTATION, GUEST\' is required.',
