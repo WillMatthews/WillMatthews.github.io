@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511600915111">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511602910627">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="217664544" ref="index:untitled-3"/>
-    <file name="index.css" crc="103227110" ref="index"/>
+    <file name="master_a-master.css" crc="227687505" ref="index:untitled-3"/>
+    <file name="index.css" crc="257646499" ref="index"/>
     <file name="untitled-3.css" crc="4182159404" ref="untitled-3"/>
     <file name="iefonts_untitled-3.css" crc="3928731452" ref="untitled-3"/>
   </folder>
@@ -26,16 +26,16 @@
   </folder>
   <folder name="images">
     <file name="bkg_01.jpg" crc="4249309889" ref="phone>index"/>
-    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index:index"/>
+    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index"/>
     <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
     <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
     <file name="gallery_03-u710-fr.png" crc="15474422" ref="phone>index"/>
     <file name="gallery_02-u711-fr.png" crc="114773680" ref="phone>index"/>
     <file name="gallery_01-u712-fr.png" crc="3862423621" ref="phone>index"/>
-    <file name="u1864-17.png" crc="532403934" ref="phone>index"/>
-    <file name="u1864-17-r.png" crc="235939021" ref="phone>index"/>
-    <file name="u1864-17-m.png" crc="235939021" ref="phone>index"/>
-    <file name="u1864-17-fs.png" crc="532403934" ref="phone>index"/>
+    <file name="u1864-17.png" crc="421104678" ref="phone>index"/>
+    <file name="u1864-17-r.png" crc="4246786799" ref="phone>index"/>
+    <file name="u1864-17-m.png" crc="4246786799" ref="phone>index"/>
+    <file name="u1864-17-fs.png" crc="421104678" ref="phone>index"/>
     <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>index:index"/>
     <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>index:index"/>
     <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>index:index"/>
@@ -63,14 +63,15 @@
     <file name="u1778-r.png" crc="4088465079" ref="index:untitled-3"/>
     <file name="u2217.png" crc="324873149" ref="index:untitled-3"/>
     <file name="u2217-r.png" crc="399307444" ref="index:untitled-3"/>
+    <file name="speaker_01-u212-fr.png" crc="3807737923" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3904245048" ref="phone>index"/>
-      <file name="index.css" crc="126521044" ref="phone>index"/>
+      <file name="master_a-master.css" crc="3849874891" ref="phone>index"/>
+      <file name="index.css" crc="4155636634" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3923358511" seo="true" mt="1511572151420" redirect="true"/>
+    <file name="index.html" crc="454949475" seo="true" mt="1511601695376" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3770411611" seo="true" mt="1511600405966" redirect="true"/>
+  <file name="index.html" crc="3949953868" seo="true" mt="1511602876141" redirect="true"/>
   <file name="untitled-3.html" crc="453954501" seo="true" mt="1511599021049" redirect="true"/>
 </manifest>
