@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511605975716">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511606234665">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="227687505" ref="index"/>
-    <file name="index.css" crc="3985185731" ref="index"/>
+    <file name="master_a-master.css" crc="217664544" ref="index"/>
+    <file name="index.css" crc="4032071674" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
@@ -65,5 +65,5 @@
     </folder>
     <file name="index.html" crc="454949475" seo="true" mt="1511601695376" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3979566390" seo="true" mt="1511605945765" redirect="true"/>
+  <file name="index.html" crc="255922966" seo="true" mt="1511606226690" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #891BC3;
+	color: #0000F0;
+	background-color: #5487FA;
 }
 
 .html
@@ -323,11 +323,11 @@
 	width: 960px;
 	min-height: 281px;
 	background-color: transparent;
-	line-height: 77px;
 	text-align: center;
 	color: #F4F4F4;
 	font-size: 70px;
 	letter-spacing: 1px;
+	line-height: 77px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -369,11 +369,11 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 12px;
 	text-align: center;
 	color: #FFFFFF;
 	font-size: 11px;
 	letter-spacing: 4px;
+	line-height: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -425,7 +425,7 @@
 #u220
 {
 	z-index: 21;
-	min-height: 1105.930328343185px;
+	min-height: 1105.9303283431848px;
 	background-color: #FFFFFF;
 	padding-bottom: 0px;
 }
@@ -486,8 +486,8 @@
 	width: 250px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #F4F4F4;
+	line-height: 25px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 240px;
@@ -513,8 +513,8 @@
 	width: 250px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #F4F4F4;
+	line-height: 25px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 240px;
@@ -540,8 +540,8 @@
 	width: 250px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 25px;
 	color: #F4F4F4;
+	line-height: 25px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 240px;
@@ -564,9 +564,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 13px;
-	color: #353535;
 	line-height: 19px;
 	letter-spacing: 1px;
+	color: #353535;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -581,9 +581,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 13px;
-	color: #353535;
 	line-height: 19px;
 	letter-spacing: 1px;
+	color: #353535;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -599,9 +599,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 13px;
-	color: #353535;
 	line-height: 19px;
 	letter-spacing: 1px;
+	color: #353535;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -612,7 +612,7 @@
 #u220-bw
 {
 	z-index: 21;
-	min-height: 1105.930328343185px;
+	min-height: 1105.9303283431848px;
 }
 
 #pamphletu798
@@ -796,9 +796,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -855,9 +855,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -914,9 +914,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -973,9 +973,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1040,9 +1040,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1099,9 +1099,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1158,9 +1158,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1217,9 +1217,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1284,9 +1284,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1343,9 +1343,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1402,9 +1402,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1461,9 +1461,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1528,9 +1528,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1587,9 +1587,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1646,9 +1646,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
@@ -1705,9 +1705,9 @@
 	background-color: transparent;
 	text-align: left;
 	font-size: 15px;
-	color: #666666;
 	line-height: 18px;
 	letter-spacing: 0px;
+	color: #666666;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	top: -3px;
