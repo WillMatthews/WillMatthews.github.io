@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E6;
-	background-color: #349EC7;
+	color: #000007;
+	background-color: #8A8ED4;
 }
 
 @-ms-viewport
@@ -348,8 +348,8 @@
 	text-align: left;
 	font-size: 13px;
 	color: #353535;
-	line-height: 19px;
 	letter-spacing: 1px;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -365,8 +365,8 @@
 	text-align: right;
 	font-size: 13px;
 	color: #353535;
-	line-height: 19px;
 	letter-spacing: 1px;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -417,8 +417,8 @@
 	text-align: left;
 	font-size: 13px;
 	color: #353535;
-	line-height: 19px;
 	letter-spacing: 1px;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -434,8 +434,8 @@
 	text-align: right;
 	font-size: 13px;
 	color: #353535;
-	line-height: 19px;
 	letter-spacing: 1px;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -486,8 +486,8 @@
 	text-align: left;
 	font-size: 13px;
 	color: #353535;
-	line-height: 19px;
 	letter-spacing: 1px;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -503,8 +503,8 @@
 	text-align: right;
 	font-size: 13px;
 	color: #353535;
-	line-height: 19px;
 	letter-spacing: 1px;
+	line-height: 19px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -805,9 +805,9 @@
 	min-height: 46px;
 	border-width: 3px;
 	border-style: solid;
+	color: #5E5E5E;
 	text-align: left;
 	font-size: 12px;
-	color: #5E5E5E;
 	letter-spacing: 1px;
 	line-height: 12px;
 	font-family: open-sans, sans-serif;
@@ -977,8 +977,8 @@
 #widgetu1840.frm-sub-st #u1862-4 p
 {
 	color: #999999;
-	text-align: left;
 	font-size: 14px;
+	text-align: left;
 	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -995,9 +995,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	color: #FF0000;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1007,8 +1007,8 @@
 #widgetu1840.frm-subm-err-st #u1853-4 p
 {
 	color: #91354B;
-	text-align: left;
 	font-size: 14px;
+	text-align: left;
 	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -1025,9 +1025,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 12px;
 	color: #00FF00;
 	font-size: 12px;
+	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

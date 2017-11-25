@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000009;
-	background-color: #6D616C;
+	color: #000006;
+	background-color: #271EE6;
 }
 
 .html
@@ -459,7 +459,7 @@
 	padding-bottom: 8px;
 	position: relative;
 	margin-right: -10000px;
-	background: #989898 url("../images/speaker_01-u212-fr.png") no-repeat left top;
+	background: #989898 url("../images/speaker_01-u973-fr.png") no-repeat left top;
 	background-color: rgba(127,127,127,0.8);
 	background-size: cover;
 }
