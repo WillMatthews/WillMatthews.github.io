@@ -33,10 +33,10 @@
 #u1771-4
 {
 	background-color: transparent;
-	letter-spacing: 1px;
+	line-height: 42px;
 	text-align: center;
 	font-size: 35px;
-	line-height: 42px;
+	letter-spacing: 1px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -45,11 +45,11 @@
 #u1772-4
 {
 	background-color: transparent;
-	text-align: center;
 	color: #999999;
-	font-size: 20px;
+	text-align: center;
 	letter-spacing: 6px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
