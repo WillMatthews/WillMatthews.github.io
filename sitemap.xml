@@ -13,10 +13,4 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="https://willmatthews.github.io/phone/index.html"/>
   </url>
-  <url>
-    <loc>https://willmatthews.github.io/untitled-3.html</loc>
-    <lastmod>2017-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

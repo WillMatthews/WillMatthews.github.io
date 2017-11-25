@@ -1,15 +1,13 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511602910627">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511603479223">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="227687505" ref="index:untitled-3"/>
-    <file name="index.css" crc="257646499" ref="index"/>
-    <file name="untitled-3.css" crc="4182159404" ref="untitled-3"/>
-    <file name="iefonts_untitled-3.css" crc="3928731452" ref="untitled-3"/>
+    <file name="master_a-master.css" crc="227687505" ref="index"/>
+    <file name="index.css" crc="4097789056" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index:untitled-3"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:index:untitled-3"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index:untitled-3"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
@@ -57,12 +55,12 @@
     <file name="u347-17-r.png" crc="4113530191" ref="index"/>
     <file name="u347-17-m.png" crc="4113530191" ref="index"/>
     <file name="u347-17-fs.png" crc="100620090" ref="index"/>
-    <file name="u1774.png" crc="380377693" ref="index:untitled-3"/>
-    <file name="u1774-r.png" crc="419685300" ref="index:untitled-3"/>
-    <file name="u1778.png" crc="323754964" ref="index:untitled-3"/>
-    <file name="u1778-r.png" crc="4088465079" ref="index:untitled-3"/>
-    <file name="u2217.png" crc="324873149" ref="index:untitled-3"/>
-    <file name="u2217-r.png" crc="399307444" ref="index:untitled-3"/>
+    <file name="u1774.png" crc="380377693" ref="index"/>
+    <file name="u1774-r.png" crc="419685300" ref="index"/>
+    <file name="u1778.png" crc="323754964" ref="index"/>
+    <file name="u1778-r.png" crc="4088465079" ref="index"/>
+    <file name="u2217.png" crc="324873149" ref="index"/>
+    <file name="u2217-r.png" crc="399307444" ref="index"/>
     <file name="speaker_01-u212-fr.png" crc="3807737923" ref="index"/>
   </folder>
   <folder name="phone">
@@ -72,6 +70,5 @@
     </folder>
     <file name="index.html" crc="454949475" seo="true" mt="1511601695376" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3949953868" seo="true" mt="1511602876141" redirect="true"/>
-  <file name="untitled-3.html" crc="453954501" seo="true" mt="1511599021049" redirect="true"/>
+  <file name="index.html" crc="4264599568" seo="true" mt="1511603462834" redirect="true"/>
 </manifest>
