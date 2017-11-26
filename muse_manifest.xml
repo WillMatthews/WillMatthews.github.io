@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511651844827">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511686306095">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="4159400975" ref="index:coming-soon"/>
-    <file name="index.css" crc="469512385" ref="index"/>
+    <file name="master_a-master.css" crc="260946251" ref="index:coming-soon"/>
+    <file name="index.css" crc="495667383" ref="index"/>
     <file name="coming-soon.css" crc="3812880513" ref="coming-soon"/>
   </folder>
   <folder name="scripts">
@@ -67,6 +67,6 @@
     </folder>
     <file name="index.html" crc="454949475" seo="true" mt="1511601695376" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4233342898" seo="true" mt="1511651821976" redirect="true"/>
+  <file name="index.html" crc="171409869" seo="true" mt="1511686227767" redirect="true"/>
   <file name="coming-soon.html" crc="3960891163" seo="true" mt="1511647880046" redirect="true"/>
 </manifest>

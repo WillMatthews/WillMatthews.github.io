@@ -45,11 +45,11 @@
 #u1772-4
 {
 	background-color: transparent;
-	color: #999999;
-	text-align: center;
-	letter-spacing: 6px;
 	line-height: 24px;
+	text-align: center;
 	font-size: 20px;
+	color: #999999;
+	letter-spacing: 6px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
