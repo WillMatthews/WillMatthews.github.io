@@ -1,45 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://willmatthews.github.io/images/arrows-mn_close.png</loc>
-    <lastmod>2017-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://willmatthews.github.io/images/profile.jpg</loc>
-    <lastmod>2017-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://willmatthews.github.io/images/feudal.jpg</loc>
-    <lastmod>2017-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://willmatthews.github.io/images/satfilt2.jpg</loc>
-    <lastmod>2017-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://willmatthews.github.io/images/dsk.jpg</loc>
-    <lastmod>2017-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://willmatthews.github.io/index.html</loc>
-    <lastmod>2017-11-26</lastmod>
+    <lastmod>2017-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="https://willmatthews.github.io/phone/index.html"/>
+    <image:image>
+      <image:loc>https://willmatthews.github.io/images/profile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://willmatthews.github.io/images/satfilt2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://willmatthews.github.io/images/dsk.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://willmatthews.github.io/images/feudal.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://willmatthews.github.io/images/arrows-mn_close.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://willmatthews.github.io/coming-soon.html</loc>
-    <lastmod>2017-11-25</lastmod>
+    <lastmod>2017-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
