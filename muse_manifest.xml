@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1511970155042">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1513907028521">
   <folder name="css">
     <file name="site_global.css" crc="204501024"/>
     <file name="master_a-master.css" crc="427902936" ref="index:coming-soon"/>
-    <file name="index.css" crc="3989100511" ref="index"/>
+    <file name="index.css" crc="395926475" ref="index"/>
     <file name="coming-soon.css" crc="4020656772" ref="coming-soon"/>
   </folder>
   <folder name="scripts">
@@ -50,6 +50,6 @@
     <file name="u2217.png" crc="324873149" ref="index:coming-soon"/>
     <file name="u2217-r.png" crc="399307444" ref="index:coming-soon"/>
   </folder>
-  <file name="index.html" crc="3810887661" seo="true" mt="1511970123998" redirect="true"/>
+  <file name="index.html" crc="3898714795" seo="true" mt="1513907002809" redirect="true"/>
   <file name="coming-soon.html" crc="361765642" seo="true" mt="1511782484881" redirect="true"/>
 </manifest>
