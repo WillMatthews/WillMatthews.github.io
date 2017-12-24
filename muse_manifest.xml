@@ -1,27 +1,32 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1513907028521">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1514147511383">
   <folder name="css">
     <file name="site_global.css" crc="204501024"/>
-    <file name="master_a-master.css" crc="427902936" ref="index:coming-soon"/>
-    <file name="index.css" crc="395926475" ref="index"/>
+    <file name="master_a-master.css" crc="3934201404" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="index.css" crc="4029127165" ref="index"/>
     <file name="coming-soon.css" crc="4020656772" ref="coming-soon"/>
+    <file name="feudal.css" crc="422718810" ref="feudal"/>
+    <file name="saturation-filter.css" crc="4167333372" ref="saturation-filter"/>
+    <file name="dskpancre_as.css" crc="531863202" ref="dskpancre.as"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:coming-soon"/>
-    <file name="museutils.js" crc="3803043152" ref="index:coming-soon"/>
-    <file name="whatinput.js" crc="86476730" ref="index:coming-soon"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:coming-soon"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:coming-soon"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="museutils.js" crc="3803043152" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="whatinput.js" crc="86476730" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:coming-soon"/>
+    <file name="require.js" crc="4157109226" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index">
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index:feudal">
       <caption webpage="index" alt=""/>
+      <caption webpage="feudal" alt=""/>
+      <caption webpage="saturation-filter" alt=""/>
     </file>
     <file name="willmatthews-favicon.ico" crc="169595073" ref="index"/>
     <file name="bck.jpg" crc="4160857524" ref="index">
@@ -36,20 +41,31 @@
     <file name="dsk.jpg" crc="173903022" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="feudal.jpg" crc="238514014" seo="true" ref="index">
+    <file name="feudal.jpg" crc="238514014" seo="true" ref="index:feudal:dskpancre.as">
       <caption webpage="index" alt=""/>
+      <caption webpage="feudal" alt=""/>
+      <caption webpage="dskpancre.as" alt=""/>
     </file>
     <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1774.png" crc="380377693" ref="index:coming-soon"/>
-    <file name="u1774-r.png" crc="419685300" ref="index:coming-soon"/>
-    <file name="u1778.png" crc="323754964" ref="index:coming-soon"/>
-    <file name="u1778-r.png" crc="4088465079" ref="index:coming-soon"/>
-    <file name="u2217.png" crc="324873149" ref="index:coming-soon"/>
-    <file name="u2217-r.png" crc="399307444" ref="index:coming-soon"/>
+    <file name="u1774.png" crc="380377693" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="u1774-r.png" crc="419685300" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="u1778.png" crc="323754964" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="u1778-r.png" crc="4088465079" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="u2217.png" crc="324873149" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="u2217-r.png" crc="399307444" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="noiserecon.jpg" crc="3910875252" seo="true" ref="saturation-filter">
+      <caption webpage="saturation-filter" alt=""/>
+    </file>
+    <file name="n90reconsat.jpg" crc="3811420418" seo="true" ref="saturation-filter">
+      <caption webpage="saturation-filter" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3898714795" seo="true" mt="1513907002809" redirect="true"/>
+  <file name="index.html" crc="4017282079" seo="true" mt="1514146919858" redirect="true"/>
   <file name="coming-soon.html" crc="361765642" seo="true" mt="1511782484881" redirect="true"/>
+  <file name="feudal.html" crc="350667056" seo="true" mt="1514147490157" redirect="true"/>
+  <file name="saturation-filter.html" crc="4220009873" seo="true" mt="1514147463076" redirect="true"/>
+  <file name="dskpancre.as.html" crc="416348004" seo="true" mt="1514147430380" redirect="true"/>
 </manifest>
