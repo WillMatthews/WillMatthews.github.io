@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1517063807344">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1517063968216">
   <folder name="css">
     <file name="site_global.css" crc="204501024"/>
     <file name="master_a-master.css" crc="3808807395" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
@@ -63,7 +63,7 @@
       <caption webpage="saturation-filter" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="65306174" seo="true" mt="1517063708733" redirect="true"/>
+  <file name="index.html" crc="161787534" seo="true" mt="1517063934581" redirect="true"/>
   <file name="coming-soon.html" crc="3765520099" seo="true" mt="1517063708733" redirect="true"/>
   <file name="feudal.html" crc="23480146" seo="true" mt="1517063708733" redirect="true"/>
   <file name="saturation-filter.html" crc="3770017992" seo="true" mt="1517063708733" redirect="true"/>
