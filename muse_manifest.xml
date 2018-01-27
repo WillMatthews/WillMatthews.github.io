@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1514147511383">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1517063807344">
   <folder name="css">
     <file name="site_global.css" crc="204501024"/>
-    <file name="master_a-master.css" crc="3934201404" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
-    <file name="index.css" crc="4029127165" ref="index"/>
-    <file name="coming-soon.css" crc="4020656772" ref="coming-soon"/>
-    <file name="feudal.css" crc="422718810" ref="feudal"/>
-    <file name="saturation-filter.css" crc="4167333372" ref="saturation-filter"/>
-    <file name="dskpancre_as.css" crc="531863202" ref="dskpancre.as"/>
+    <file name="master_a-master.css" crc="3808807395" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
+    <file name="index.css" crc="4185220261" ref="index"/>
+    <file name="coming-soon.css" crc="504149948" ref="coming-soon"/>
+    <file name="feudal.css" crc="119110944" ref="feudal"/>
+    <file name="saturation-filter.css" crc="4049958351" ref="saturation-filter"/>
+    <file name="dskpancre_as.css" crc="4012830302" ref="dskpancre.as"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
@@ -23,7 +23,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index:feudal">
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="feudal" alt=""/>
       <caption webpage="saturation-filter" alt=""/>
@@ -41,7 +41,7 @@
     <file name="dsk.jpg" crc="173903022" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="feudal.jpg" crc="238514014" seo="true" ref="index:feudal:dskpancre.as">
+    <file name="feudal.jpg" crc="238514014" seo="true" ref="index:feudal">
       <caption webpage="index" alt=""/>
       <caption webpage="feudal" alt=""/>
       <caption webpage="dskpancre.as" alt=""/>
@@ -63,9 +63,9 @@
       <caption webpage="saturation-filter" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4017282079" seo="true" mt="1514146919858" redirect="true"/>
-  <file name="coming-soon.html" crc="361765642" seo="true" mt="1511782484881" redirect="true"/>
-  <file name="feudal.html" crc="350667056" seo="true" mt="1514147490157" redirect="true"/>
-  <file name="saturation-filter.html" crc="4220009873" seo="true" mt="1514147463076" redirect="true"/>
-  <file name="dskpancre.as.html" crc="416348004" seo="true" mt="1514147430380" redirect="true"/>
+  <file name="index.html" crc="65306174" seo="true" mt="1517063708733" redirect="true"/>
+  <file name="coming-soon.html" crc="3765520099" seo="true" mt="1517063708733" redirect="true"/>
+  <file name="feudal.html" crc="23480146" seo="true" mt="1517063708733" redirect="true"/>
+  <file name="saturation-filter.html" crc="3770017992" seo="true" mt="1517063708733" redirect="true"/>
+  <file name="dskpancre.as.html" crc="59397417" seo="true" mt="1517063708733" redirect="true"/>
 </manifest>
