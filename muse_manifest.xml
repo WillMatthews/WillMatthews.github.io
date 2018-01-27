@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1517063968216">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://willmatthews.github.io" resolutions="1x" timestamp="1517067800241">
   <folder name="css">
     <file name="site_global.css" crc="204501024"/>
     <file name="master_a-master.css" crc="3808807395" ref="index:coming-soon:feudal:saturation-filter:dskpancre.as"/>
     <file name="index.css" crc="4185220261" ref="index"/>
     <file name="coming-soon.css" crc="504149948" ref="coming-soon"/>
-    <file name="feudal.css" crc="119110944" ref="feudal"/>
+    <file name="feudal.css" crc="3943658456" ref="feudal"/>
     <file name="saturation-filter.css" crc="4049958351" ref="saturation-filter"/>
     <file name="dskpancre_as.css" crc="4012830302" ref="dskpancre.as"/>
   </folder>
@@ -23,7 +23,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index">
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index:feudal">
       <caption webpage="index" alt=""/>
       <caption webpage="feudal" alt=""/>
       <caption webpage="saturation-filter" alt=""/>
@@ -65,7 +65,7 @@
   </folder>
   <file name="index.html" crc="161787534" seo="true" mt="1517063934581" redirect="true"/>
   <file name="coming-soon.html" crc="3765520099" seo="true" mt="1517063708733" redirect="true"/>
-  <file name="feudal.html" crc="23480146" seo="true" mt="1517063708733" redirect="true"/>
+  <file name="feudal.html" crc="4158032443" seo="true" mt="1517067780913" redirect="true"/>
   <file name="saturation-filter.html" crc="3770017992" seo="true" mt="1517063708733" redirect="true"/>
   <file name="dskpancre.as.html" crc="59397417" seo="true" mt="1517063708733" redirect="true"/>
 </manifest>
